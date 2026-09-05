@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos de Uso - Subasta de Chefs</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 20px auto; padding: 0 15px; line-height: 1.6; color: #333; }
+        h1 { color: #5b21b6; }
+    </style>
+</head>
+<body>
+    <h1>Términos de Uso — Subasta de Chefs</h1>
+
+    <h2>1. Aceptación de los términos</h2>
+    <p>Al registrarte y utilizar el juego "Subasta de Chefs", aceptas cumplir con los presentes Términos de Uso. Si no estás de acuerdo con alguna de estas condiciones, no debes utilizar la plataforma.</p>
+
+    <h2>2. Exención de responsabilidad</h2>
+    <p>El juego se proporciona "tal cual" y según disponibilidad, sin garantías de ningún tipo. El desarrollador no se hace responsable por pérdidas de datos, fallos del servidor, interrupciones en el servicio, hackeos, acceso no autorizado o pérdida de contraseñas. El usuario utiliza la plataforma bajo su propio riesgo.</p>
+
+    <h2>3. Normas de la comunidad</h2>
+    <p>Queda estrictamente prohibido el uso de trampas, la explotación de errores del sistema, el uso de nombres de usuario ofensivos o cualquier conducta que altere la experiencia de otros jugadores. Nos reservamos el derecho de suspender o eliminar cuentas que incumplan estas normas sin previo aviso.</p>
+
+    <h2>4. Soporte y contacto</h2>
+    <p>Si sufres un problema con tu cuenta, pierdes el acceso a tu contraseña o deseas reportar una incidencia, debes contactar únicamente a través de la cuenta oficial de TikTok del juego.</p>
+</body>
+</html>
